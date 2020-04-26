@@ -2,7 +2,7 @@
 - ## Project Aims
    A small application is developed using sentiment analysis to understand how satisfied people are with the measures State and Central government is taking in the wake of COVID-19. The user is required to input how he/she feels about the State Government initiatives and click on 'Submit'. Repeat the same process with the Central Government. In each of the two cases, you see that your sentiments are being interpreted based on the words you chose to share. Typically, you'll see what percentage you are satisfied/dissatisfied with the current situation. You can check our application at [COVID19 Feedback Application](http://104.154.117.66/)
 
-    <img src="Images/website.jpg" width="400" height="200">
+    <img src="Images/website.JPG" width="400" height="200">
 
     <b>Note:</b> The website is solely built for the purpose of explaining different platforms and technologies used in the process of building and deploying an application. Please do not assume it to be anything official tied up with the government bodies. The data you enter will be purely confidential and used for improvising the existing model.
 
@@ -133,7 +133,7 @@
 
     The IP address of our load balancer is http://104.154.117.66/ and you'll be able to see the IP address of the node which is serving you at the moment on the bottom right corner of your screen. When you refresh the page you can see the hostname( feedbacknode1 or feedbacknode2) and internal ipaddress of the node which is currently serving you.
 
-    <img src="Images/ourlb.jpg" width="400" height="200">
+    <img src="Images/ourlb.JPG" width="400" height="200">
 
     This is how a haproxy Load balancer works, click [here.](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 
