@@ -1,6 +1,7 @@
 import pandas as pd
 from flask import Flask, request, jsonify, render_template
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+#VADER belongs to a type of sentiment analysis that is based on lexicons of sentiment-related words
 import sys
 import socket
 from datetime import datetime
