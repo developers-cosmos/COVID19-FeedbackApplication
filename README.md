@@ -1,6 +1,6 @@
 # COVID19 Feedback Application
 - ## Project Aim
-   A small application is developed using sentiment analysis to understand how satisfied people are with the measures State and Central government is taking in the wake of COVID-19. The user is required to input how he/she feels about the State Government initiatives and click on 'Submit'. Repeat the same process with the Central Government. In each of the two cases, you see that your sentiments are being interpreted based on the words you chose to share. Typically, you'll see what percentage you are satisfied/dissatisfied with the current situation. You can check our application at [COVID19 Feedback Application](http://104.154.117.66/)
+   A small application is developed using sentiment analysis to understand how satisfied people are with the measures State and Central government is taking in the wake of COVID-19. The user is required to input how he/she feels about the State Government initiatives and click on 'Submit'. Repeat the same process with the Central Government. In each of the two cases, you see that your sentiments are being interpreted based on the words you chose to share. Typically, you'll see what percentage you are satisfied/dissatisfied with the current situation.
 
     <img src="Images/website.JPG" width="400" height="200">
 
